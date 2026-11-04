@@ -28,18 +28,11 @@
 
 ## 🧰 Tools & Technologies
 
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse"/>
 
 ---
 
 ## 🚀 My Projects
 
-Here are some of the projects I've worked on while learning and exploring software development.
-
-- **College Search** – Android application to search for colleges in India.
-- **College Finder App** – College discovery application.
-- **Codesoft Tasks** – Programming tasks and practice.
-- **Oasis Infobyte Tasks** – Internship projects and assignments.
-- **TNS Daily Codes** – Java programming practice.
-- **PMIS Training** – Java training programs and coding exercises.
+Here are all my projects. Feel free to explore my repositories below! 👇
 
